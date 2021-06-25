@@ -1,2 +1,2 @@
 # wildwest
-dssaadssad
+discord.gg/dahub
