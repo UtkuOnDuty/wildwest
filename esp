@@ -1,6 +1,6 @@
---// Made by kiriot22 (https://kiriot22.com/releases/ESP.lua) but someone could access it and was being annoying about it
+--// Made by kiriot22 (https://kiriot22.com/releases/ESP.lua) 
 
---Settings--
+
 
 local ESP = {
 
